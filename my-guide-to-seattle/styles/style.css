@@ -1,0 +1,32 @@
+html{
+  font-size: 15px;
+  font-family: 'Fjalla One', sans-serif;
+  background-color: #6A687A;
+}
+body{
+  width:1000px;
+  margin:30px auto 30px;
+  background-color: #3E4C5E;
+  padding:0 20px 20px 20px;
+  border:5px solid black;
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+  margin:0;
+  padding:20px 0;
+  color:#84828F;
+  text-shadow:3px 3px 1px black;
+}
+p, li {
+  font-size:16px;
+  line-height:2;
+  letter-spacing:1px;
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
+#Test {
+  border:5px dotted black;
+}
